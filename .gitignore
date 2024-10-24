@@ -2,8 +2,12 @@
 cache/
 out/
 lib/
+nft/lib/
+erc20/lib/
+
 
 **/lib/
+**/**/lib/
 **/out/
 **/cache/
 
